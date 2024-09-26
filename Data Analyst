@@ -1,1 +1,42 @@
+Course Overview
+A data analyst is someone who uses data to answer questions, and that's exactly what you'll be doing here! You are currently in the first lesson of the course. Here's a preview of the lessons ahead:
 
+The Data Analysis Process
+Jupyter Notebooks
+Exploring and Inspecting Data
+Manipulating Data using Pandas and NumPy
+Communicating Results
+Investigate a Dataset
+Programming and Python
+This course requires some familiarity with Python. Introduction to Python Programming(opens in a new tab) is an awesome free course you can take to learn or refresh your programming and Python skills!
+
+In this course, you'll be learning to work with three essential Python libraries: NumPy, pandas, and Matplotlib.
+
+Lesson Overview
+In this lesson, you will learn about the types of problems data analysts solve, the steps that make up the data analysis process, and the packages and tools we will be using throughout the course. This lesson is aimed at helping you quickly understand what happens at each step and what the tools are used for before we dive into specific applications.
+
+5 Step Data Analysis Process
+
+We organized the data analysis process into five steps: Question, Wrangle, Explore, Draw Conclusions, and Communicate. We will practice each step as we go through the next sections, and you will get the whole process down in no time.
+
+Step 1: Ask questions
+Either you're given data and ask questions based on it, or you ask questions first and gather data based on that later. In both cases, great questions help you focus on relevant parts of your data and direct your analysis toward meaningful insights.
+
+You will often return to this step multiple times over the course of your analysis.
+
+Step 2: Wrangle data
+You get the data you need in a form you can work with in three steps: gather, assess, and clean. In other words, you:
+
+gather the data you need to answer your questions,
+assess your data to identify any problems in your data’s quality or structure, and
+clean your data by modifying, replacing, or removing data to ensure that your dataset is of the highest quality and as well-structured as possible.
+Step 3: Perform EDA (Exploratory Data Analysis)
+You explore and then augment your data to maximize the potential of your analyses, visualizations, and models. Exploring involves finding patterns in your data and visualizing the relationships in your data. After exploring, you can do things like remove outliers and create better features from your data, also known as feature engineering.
+
+Step 4: Draw conclusions
+This step is often approached with machine learning or inferential statistics techniques that are beyond the scope of this course. Check out the Data Scientist Nanodegree(opens in a new tab) if you're interested in learning more.
+
+In this course, you will focus on drawing conclusions with descriptive statistics and data visualizations.
+
+Step 5: Communicate your results
+You often need to justify and convey meaning in the insights you’ve found. Or, if your end goal is to build a system, you usually need to share what you’ve built, explain how you reached design decisions, and report how well it performs. There are many ways to communicate your results: reports, slide decks, blog posts, emails, presentations, or even conversations. Data visualization will always be very valuable, and you will learn data visualization fundamentals in this course.
